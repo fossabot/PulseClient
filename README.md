@@ -1,4 +1,6 @@
 # PulseClient
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSerubin%2FPulseClient.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSerubin%2FPulseClient?ref=badge_shield)
+
 
 # This Repo has been moved and is now the offical web client of PulseSMS. It can be found at [https://github.com/klinker-apps/messenger-web](https://github.com/klinker-apps/messenger-web)
 
@@ -48,3 +50,7 @@ Contributing is more than welcome.
 
 Pull requests will be evaluated on a case by case basis.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSerubin%2FPulseClient.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSerubin%2FPulseClient?ref=badge_large)
